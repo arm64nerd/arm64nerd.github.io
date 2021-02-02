@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FuzzyBundleIdentifiers</key>
+	<array>
+		<string>org.coolstar.odyssey</string>
+		<string>science.xnu.undecimus</string>
+		<string>com.rileytestut.AltStore</string>
+	</array>
+	<key>PackageName</key>
+	<string>Felicity Pro</string>
+	<key>CalendarIconDateSettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>35</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>1</integer>
+		<key>ShadowColor</key>
+		<string>#666666</string>
+		<key>TextColor</key>
+		<string>#000000</string>
+		<key>TextYoffset</key>
+		<integer>6</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key>
+	<dict>
+		<key>FontSize</key>
+		<integer>9</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>1</integer>
+		<key>ShadowColor</key>
+		<string>#000000</string>
+		<key>TextYoffset</key>
+		<integer>-2</integer>
+		<key>TextColor</key>
+		<string>#ffffff</string>
+	</dict>
+	<key>IB-MaskIcons</key>
+	<true/>
+</dict>
+</plist>

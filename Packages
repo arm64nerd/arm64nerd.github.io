@@ -1,0 +1,59 @@
+Package: me.surenix.ayeris-ios14
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/ayeris14.deb
+Size: 11568854
+MD5sum: 24216811102457e25254b31e2b0ce0ef
+SHA1: 4f02e8d9281be58df9c9ff58a3262c83b544f51c
+SHA256: d8fb3f33e550767ce9db2f80b9d71ddce8aea7b715cc00a8b0dae58a51dac864
+Section: Themes
+Description: ayeris for iOS 14
+Author: Surenix
+Name: ayeris for iOS 14
+
+Package: me.surenix.ayeris
+Version: 1.012
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/ayeris13.deb
+Size: 11597870
+MD5sum: 76d434a126756e6f14cdc92882cc9b6a
+SHA1: f9f183cbee96b40131018aa171a6440e2402ec5a
+SHA256: 4d3b95d57d9087ee5294f3934833d7e94b6e8e389d49653aa37a40b563c40d1c
+Section: Themes
+Description: ayeris for iOS 13
+Author: Surenix
+Name: ayeris for iOS 13
+
+Package: com.xandesign.felicitypro
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/FelicityPro.deb
+Size: 10731026
+MD5sum: ab3aabb735a7486b07e2019eb5f6794a
+SHA1: 16381d20f8ae030136c8044c9a7f54b6909fa483
+SHA256: b0348f08747e789c805ea946ec74277f716a8dd2ccbf6dfe570a91f36b0ab236
+Section: Themes
+Description: Felicity Pro
+Author: xandesign
+Name: Felicity Pro
+
+Package: com.mirac.kindastock
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: DylbinTheDev
+Depends:
+Filename: /debs/KindaStock.deb
+Size: 5380152
+MD5sum: 71a7e3997a810c9acabaf7c0db2476fa
+SHA1: c0ffa13008e181fbf46f591e616575f24b99e157
+SHA256: 94bf25b99b34d7bb32cd4dd75e7c39afce5318520796999e83b7bd39c690b16a
+Section: Themes
+Description: kindaStock
+Author: Mirac
+Name: kindaStock
